@@ -30,10 +30,12 @@ cypress-api-automation
 └── README.md
 ---
 
-## 🚀 How to Run the Project
+## ▶️ How to Run Tests
+1. Clone the repository
+2. Install dependencies
+3. Open Cypress Test Runner
+4. Run `addBook.cy.js`
 
-### 1️⃣ Install dependencies
-```bash
-npm install
-npx cypress open
-npx cypress run
+## 📌 Author
+Priya – QA Automation Engineer  
+Specializing in Cypress UI & API Automation
