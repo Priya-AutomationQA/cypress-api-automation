@@ -1,5 +1,6 @@
 # cypress-api-automation
-Cypress API Automation framework for REST APIs
+Cypress API Automation framework for REST APIs.
+
 This project demonstrates **API Automation Testing using Cypress and JavaScript**.
 It is designed in a clean and simple way to validate REST APIs with real-world examples.
 
